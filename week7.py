@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # Task 1: Load and Explore Dataset
 # ===============================
 
-# Replace "iris.csv" with your Kaggle dataset filename
+# load your kaggle dataset
 df = pd.read_csv("iris.csv")
 
 print("=== First 5 Rows ===")
